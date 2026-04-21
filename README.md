@@ -80,7 +80,7 @@ sudo systemctl daemon-reload
 
 ### 1. Install Go
 
-You need Go 1.24 or later. If this version is unavailable in your package manager, install it manually:
+You need Go 1.24 or later. If this version is unavailable in your package manager, install it manually (Linux):
 
 1. **Download & Install Go 1.24+:**
    ```bash
